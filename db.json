@@ -1,7 +1,7 @@
 {
   "meter": [
-    { "num": 0100678896, "name": "Player 305", "address": "19 OLALEYE STREET LAGOS", "Debt": "3500" },
-     { "num": 45205345297, "name": "Player 213", "address": "5 Banjul Street Abuja", "Debt": "1500" },
+    { "numb": 0100678896, "name": "Player 305", "address": "19 OLALEYE STREET LAGOS", "debt": "3500" },
+     { "numb": 45205345297, "name": "Player 213", "address": "5 Banjul Street Abuja", "debt": "1500" },
     
     
   ],
